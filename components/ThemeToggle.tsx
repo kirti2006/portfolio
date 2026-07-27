@@ -53,7 +53,6 @@ export function ThemeToggle() {
           >
             <Moon size={18} />
           </motion.div>
-          </motion.div>
         )}
       </AnimatePresence>
     </button>
