@@ -128,7 +128,7 @@ export default function Footer() {
               color: "rgba(255,255,255,0.5)",
               border: "1px solid rgba(255,255,255,0.08)",
             }}
-            whileHover={{ scale: 1.1, background: "var(--gradient-accent)", color: "#fff" }}
+            whileHover={{ scale: 1.1, backgroundColor: "var(--accent-primary)", color: "#fff" }}
             whileTap={{ scale: 0.95 }}
             aria-label="Back to top"
             id="footer-back-to-top"
