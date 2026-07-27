@@ -2,7 +2,7 @@
 
 A modern, premium personal portfolio website built to showcase my background in Software Engineering, AI/ML, and Full-Stack Development.
 
-Live Preview: [http://localhost:3000](http://localhost:3000) *(Update with your production URL)*
+Live Preview: [https://portfolio-ivory-ten-24.vercel.app/](https://portfolio-ivory-ten-24.vercel.app/)
 
 ## 🚀 Tech Stack
 
