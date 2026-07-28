@@ -115,7 +115,7 @@ export default function Footer() {
         {/* Bottom row */}
         <div className="flex items-center justify-between pt-8 gap-4 flex-wrap">
           <p className="text-xs flex items-center gap-1.5" style={{ color: "rgba(255,255,255,0.3)" }}>
-            © {new Date().getFullYear()} Kirti Singla · Built with{" "}
+            © {new Date().getFullYear()} Kirti · Built with{" "}
             <Heart size={11} className="inline" style={{ color: "var(--accent-secondary)" }} />{" "}
             using Next.js & Framer Motion
           </p>
