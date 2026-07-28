@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Kirti Singla",
+  name: "Kirti",
   role: "Software Engineer & AI/ML Enthusiast",
   tagline: "Building intelligent software and scalable systems — one line at a time.",
   bio: "I'm a motivated Computer Science student at K.R. Mangalam University with a strong foundation in Data Structures, OOP, DBMS, and Operating Systems. I'm deeply interested in Software Engineering and AI/ML, with hands-on experience building full-stack and AI-powered applications using Python and C++.",
