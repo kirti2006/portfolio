@@ -46,7 +46,7 @@ export default function ExperienceSection() {
               className="text-sm font-semibold uppercase tracking-widest mb-8"
               style={{ color: "var(--text-muted)" }}
             >
-              Internship Experience
+              Learning Experience
             </h3>
             <div className="timeline-line space-y-8 pl-12">
               {experience.map((exp, idx) => (
