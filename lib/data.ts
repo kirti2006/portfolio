@@ -64,12 +64,12 @@ export const projects = [
 
 export const experience = [
   {
-    title: "OCI AI Foundations Associate Internship",
+    title: "OCI AI Foundations Associate Program",
     company: "Oracle University",
     type: "Online",
     period: "Jun 2025 – Jul 2025",
     description:
-      "Completed a virtual internship focused on AI and ML concepts using Oracle Cloud Infrastructure (OCI). Gained practical understanding of cloud-based AI services, model training, and deployment.",
+      "Completed a virtual AI and ML program focused on Oracle Cloud Infrastructure (OCI). Built understanding of cloud-based AI services, machine learning workflows, and deployment concepts.",
     highlights: [
       "Completed hands-on AI/ML modules on Oracle Cloud Infrastructure",
       "Built practical understanding of cloud-based AI services and model training",
@@ -78,12 +78,12 @@ export const experience = [
     badge: "Oracle Cloud",
   },
   {
-    title: "Google UX Design Internship",
+    title: "Google UX Design Program",
     company: "Google",
     type: "Online",
     period: "Jun 2024 – Jul 2024",
     description:
-      "Completed a 6-week online internship covering user research, wireframing, and prototyping using Figma. Developed a strong foundation in human-centered design principles.",
+      "Completed a 6-week online program covering user research, wireframing, and prototyping using Figma. Developed a strong foundation in human-centered design principles.",
     highlights: [
       "Completed 6-week structured UX design curriculum",
       "Practiced user research, wireframing, and high-fidelity prototyping in Figma",
