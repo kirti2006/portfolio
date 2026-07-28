@@ -86,8 +86,8 @@ export default function AboutSection() {
               className="text-base leading-relaxed mb-8"
               style={{ color: "var(--text-muted)" }}
             >
-              When I&apos;m not writing code, I&apos;m exploring new technologies, working through 
-              algorithmic challenges, or designing intuitive user experiences. I believe great 
+              When I&apos;m not writing code, I&apos;m exploring new technologies, working through
+              algorithmic challenges, or designing intuitive user experiences. I believe great
               software lives at the intersection of technical depth and thoughtful design.
             </p>
             <div
@@ -125,7 +125,7 @@ export default function AboutSection() {
                 K
               </div>
               <p className="text-2xl font-bold mb-1 relative z-10" style={{ color: "var(--text-primary)" }}>
-                Kirti Singla
+                Kirti
               </p>
               <p className="text-sm mb-6 relative z-10" style={{ color: "var(--text-muted)" }}>
                 B.Tech CSE · K.R. Mangalam University
