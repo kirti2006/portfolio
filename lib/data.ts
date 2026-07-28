@@ -141,8 +141,7 @@ export const education = [
 ];
 
 export const stats = [
-  { label: "Projects Built", value: "2+" },
-  { label: "Internships", value: "2" },
+  { label: "Projects Built", value: "4+" },
   { label: "Certifications", value: "4" },
   { label: "CGPA", value: "8.66" },
 ];

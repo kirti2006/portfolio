@@ -26,7 +26,7 @@ export default function ExperienceSection() {
             style={{ background: "rgba(109,92,231,0.08)", color: "var(--accent-primary)" }}
           >
             <Briefcase size={12} />
-            Experience & Certifications
+            Qualifications
           </div>
           <h2
             className="text-4xl sm:text-5xl font-bold"
@@ -35,8 +35,7 @@ export default function ExperienceSection() {
               color: "var(--text-primary)",
             }}
           >
-            Where I&apos;ve{" "}
-            <span className="gradient-text italic">worked & learned</span>
+            Learning Experience & <span className="gradient-text italic">Certifications</span>
           </h2>
         </motion.div>
 
