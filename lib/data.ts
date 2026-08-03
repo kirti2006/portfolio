@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Kirti",
   role: "Software Engineer & AI/ML Enthusiast",
   tagline: "Building intelligent software and scalable systems — one line at a time.",
-  bio: "I'm a motivated Computer Science student at K.R. Mangalam University with a strong foundation in Data Structures, OOP, DBMS, and Operating Systems. I'm deeply interested in Software Engineering and AI/ML, with hands-on experience building full-stack and AI-powered applications using Python and C++.",
+  bio: "I'm a motivated Computer Science student at K.R. Mangalam University with a strong foundation  Object-Oriented Programming (OOP), Data Structures, and DBMS. I'm interested in Software Engineering and AI/ML, with hands-on experience building full-stack and AI-powered applications using Python and C++.",
   location: "Sohna, Haryana, India",
   email: "kirtisingla2006@gmail.com",
   phone: "+91-9306713836",
@@ -13,10 +13,10 @@ export const personalInfo = {
 
 export const skills = {
   technical: [
-    "C++", "Java", "Python", "SQL",
+    "C++", "Python", "Java", "SQL",
     "Flask", "SQLite", "HTML", "CSS",
     "React", "Next.js", "TypeScript",
-    "Git", "GitHub", "Linux", "VS Code",
+    "Git", "GitHub", "VS Code",
     "Vercel", "Render",
   ],
   concepts: [
