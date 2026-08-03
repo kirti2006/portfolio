@@ -8,7 +8,7 @@ export const personalInfo = {
   phone: "+91-9306713836",
   github: "https://github.com/kirti2006",
   linkedin: "https://linkedin.com/in/kirti-dev06",
-  resumeLink: "https://drive.google.com/file/d/11NeJxx2MNNcZkk5kbe7kKFKc-O7JDJrD/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1msxoiOZs2NV5WFKzvM0N6usl5tbAOBC_/view?usp=sharing",
 };
 
 export const skills = {
