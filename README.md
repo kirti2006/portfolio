@@ -41,7 +41,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## 🛠️ Editing Content
 
 All portfolio content is stored centrally in `lib/data.ts`. You can easily update your projects, skills, experience, and education by modifying this single file without touching the UI components.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
