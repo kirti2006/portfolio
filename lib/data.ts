@@ -95,6 +95,11 @@ export const experience = [
 
 export const certifications = [
   {
+    name: "Soft Skills",
+    issuer: "NPTEL – IIT Roorkee (86%)",
+    icon: "🏅",
+  },
+  {
     name: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
     issuer: "Oracle",
     icon: "🏅",
@@ -103,11 +108,6 @@ export const certifications = [
     name: "Programming Pathshala – Full Stack with AI Integration & Problem Solving Bootcamp",
     issuer: "Programming Pathshala",
     icon: "💻",
-  },
-  {
-    name: "Google UX Design Certificate",
-    issuer: "Google",
-    icon: "🎨",
   },
   {
     name: "Object-Oriented Programming using C++",
